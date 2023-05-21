@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Translator
+comment1.params=word
+comment1.target=java.lang.String\ translateWord(java.lang.String)
+comment2.params=phrase
+comment2.target=java.lang.String\ translatePhrase(java.lang.String)
+numComments=3
